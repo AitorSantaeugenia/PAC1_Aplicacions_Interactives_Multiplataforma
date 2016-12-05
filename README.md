@@ -13,5 +13,5 @@ Actionscript exercises using Flash Builder and Animate CC. When you press a butt
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/20790245/e30cead2-b7b7-11e6-95cb-e6294bab14b8.png)<br>
 - [CAT] Canviant color de 1 cercle i eliminant 2 invaders
 - [ESP] Cambiando color de 1 circulo y eliminando 2 invaders
-- [EN] We change the color of a circle, and deleting 2 invaders
+- [EN] We change the color of a circle, and delete 2 invaders
 ![Alt text](https://cloud.githubusercontent.com/assets/14861253/20790260/eafa0766-b7b7-11e6-9134-6fa54b5452a4.png)<br>
